@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from the Prince being comfortable tydings for both Houses of Parliament, as it will evidently appear in this ensuing subject. Wherein His Highnesse doth expresse his firme and constant resolution. Also the expresse command that the Prince hath given to the cavaleers. With the Parliaments resolution concerning the Kings Majesty, he being now resolved to set up his standard, and hath thereupon commanded all those that will aid assist him to repair to Nottingham. Ordered that this be forthwitg [sic] printed Hen. Elsyng Cler. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84260</idno>
+            <idno type="STC">Wing E3766</idno>
+            <idno type="STC">Thomason E112_39</idno>
+            <idno type="STC">ESTC R20415</idno>
+            <idno type="EEBO-CITATION">99863838</idno>
+            <idno type="PROQUEST">99863838</idno>
+            <idno type="VID">130617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130617)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from the Prince being comfortable tydings for both Houses of Parliament, as it will evidently appear in this ensuing subject. Wherein His Highnesse doth expresse his firme and constant resolution. Also the expresse command that the Prince hath given to the cavaleers. With the Parliaments resolution concerning the Kings Majesty, he being now resolved to set up his standard, and hath thereupon commanded all those that will aid assist him to repair to Nottingham. Ordered that this be forthwitg [sic] printed Hen. Elsyng Cler. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 19. Printed for Iames Ragge,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Nottingham (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130617:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull NEWES FROM THE PRINCE Being Comfortable Tydings for Both Houſes of <hi>Parliament,</hi> as it will evidently appear in this enſuing Subject. Wherein His Highneſſe doth expreſſe his firme and conſtant Reſolution. Alſo the Expreſſe Command that the Prince hath given to the Cavaleers. With the Parliaments Reſolution concerning the Kings Majeſty, He being now Reſolved to ſet up his Standard, and hath thereupon commanded all thoſe that will aid aſſiſt him to Repair to Not<g ref="char:EOLhyphen"/>tingham.</p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <p>
+                        <hi>Ordered that this be forthwitg printed</hi>
+                     </p>
+                     <closer>
+                        <signed>Hen. Elſing Cler. D. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Auguſt</hi> 19. Printed for <hi>Iames Ragge.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:130617:2"/>
+            <pb facs="tcp:130617:2"/>
+            <head>Exceding JOYFUL NEVVES FROM <hi>THE PRINCE.</hi>
+            </head>
+            <p>HIs Highneſſe being made Lord Generall of a Troop of Horſe, in the Northern parts of this King<g ref="char:EOLhyphen"/>dom, His Deſire was, that they ſhould be<g ref="char:EOLhyphen"/>have themſelves fairly, not doing any harm, to man, woman, or child, giving them ſtrict Command, that they ſhould commit no Outrages whatſoeverr againſt any of His <hi>Maieſties</hi> loving Subjects, nei<g ref="char:EOLhyphen"/>ther ſhould they take any thing from them by violence; which Command was obſerved and obeyed by them for a long time, till within theſe few dayes they be<g ref="char:EOLhyphen"/>gan
+<pb facs="tcp:130617:3"/>to revolt from obeying the Princes Command, committing many tyrannicall Actions againſt His Majeſties Subjects, plundering their Houſes, and taking from them all that they could find therin.</p>
+            <p>Which Out-rages and in humane Acts, at laſt came to the knowledge of the Prince; who having information of it, was much moved, and forthwith gave Command, for the apprehending of all ſuch perſons.</p>
+            <p>His Highneſſe hath alſo ſet down His <hi>Reſolution,</hi> that if any of the Souldiers in His Majeſties Army, or elſe-where, doth offer to abuſe any Perſon or Perſons, or ceize upon their Horſes, Goods, &amp;c. or preſume to take any thing away from them by violence, that they ſhall have juſt and ſevere puniſhment for the ſo doing.</p>
+            <p>This is the Reſolution of our moſt Gracious Prince, whom God ever protect with peace and proſperity, and theſe par<g ref="char:EOLhyphen"/>ticulars he is reſolved to put in execution againſt all thoſe that will not concurre
+<pb facs="tcp:130617:3"/>with His Deſires; the which Command ſtrikes joy and comfort to the hearts of His Majeſties loving Subjects, by reaſon that they have now ſome hopes to be ea<g ref="char:EOLhyphen"/>ſed of their Burthens, which they have of late dayes groaned under.</p>
+            <p>His Majeſty both ſent a Meſſage to the County of <hi>Kent,</hi> Declaring His will and pleaſure therin, commanding the Judges of that County to diſplace ſome of the Juſtices; which by vertue of His Maje<g ref="char:EOLhyphen"/>ſties Warrant 1, were diſmiſſed, and five other choſen, who have ſince their com<g ref="char:EOLhyphen"/>ming into that place, ſubſcribed to cer<g ref="char:EOLhyphen"/>tain Articles and Propoſitions of His Ma<g ref="char:EOLhyphen"/>jeſty, for raiſing of Horſe, Men, and Mo<g ref="char:EOLhyphen"/>ney for His Majeſties ſervice, and endea<g ref="char:EOLhyphen"/>voured as much as in them lay, to bring the ſaid Propoſitions to perfection; but their Deſigns did not take effect for the Houſe having received information of their proceedings, forthwith Ordered, that the ſaid Juſtices ſhould be ſent for as <hi>De<g ref="char:EOLhyphen"/>linquents,</hi> and immediatly diſpatched a Meſſenger for the apprehending of them.</p>
+            <pb facs="tcp:130617:4"/>
+            <p>Information was alſo given to the Houſe of His Majeſties Proceedings in <hi>Yorke-ſhire,</hi> and that the <hi>Malignant Partie</hi> had ſo farre prevailed with His <hi>Maieſty,</hi> that there is now no hopes of <hi>Peace,</hi> by reaſon that the King is determined to ſet up his <hi>Standard</hi> at <hi>Nottingham</hi> on <hi>Monday</hi> next, <hi>as it was credibly ſignified, and reported to the Houſe of Commons upon Wedneſday laſt, being the</hi> 17. <hi>day of this inſtant month of Angust.</hi>
+            </p>
+            <p>And to that end, his Majeſty hath cau<g ref="char:EOLhyphen"/>ſed great preparations for Warre to bee made, declaring His will and pleaſure therin, and giving ſpeciall command to all his loving Subjects for theis ſpeedy Re<g ref="char:EOLhyphen"/>pair thither.</p>
+            <p>The Houſe having received theſe ſad tydings, forthwith fell into debate there<g ref="char:EOLhyphen"/>of, and unanimouſly, that they held them<g ref="char:EOLhyphen"/>ſelves bound in Conſcience, for to raiſe Forces, and to ſend them down with all poſſible ſpeed and expedition, for the preſervation and Defence of the Religion of Almighty God, the Liberties and peace
+<pb facs="tcp:130617:4"/>of the Kingdom, and in purſuit of thoſe wicked and rebellious Traytors, that doth ſtrive and endeavour to involve this Kingdom in a Civill Warre.</p>
+            <p>They are reſolved to withſtand thoſe wicked Counſellours that doth daily in<g ref="char:EOLhyphen"/>cenſe the King againſt his Parliament, and through their meanes hath cauſed him to ſet up his <hi>Standard;</hi> it being the way to bring this Kingdom to deſtruction, and it is the only courſe that the <hi>Malignant Party</hi> can take, to bring <hi>Poperie</hi> and <hi>Super<g ref="char:EOLhyphen"/>ſtition</hi> in this Kingdom, and ſo by that means beat down and trample under feet Gods true Religion, and Goſpell.</p>
+            <p>Laſtly, the Lords and Commons to witneſſe their conſtant and firme Loyal<g ref="char:EOLhyphen"/>ty and Affection to His Majeſty, do here ſolemnly Declare, That if his Majeſty wil be pleaſed to disbandon all his Forces, and abandon thoſe wicked Councellors that are about him, and leave them to condign puniſhment, and return and hearken to the advice of his great Councell, they will really endeavour to make both His Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb facs="tcp:130617:5"/>and His Poſterity, as great, rich, and potent, as much beloved at home, and fea<g ref="char:EOLhyphen"/>red abroad, as any Prince that ever ſway<g ref="char:EOLhyphen"/>ed this Scepter.</p>
+            <p>This is their Reſolution, and this they are Reſolved to maintain with their own precious bloud.</p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <p>
+                        <hi>Ordered by the Lords and Commons, That this be printed and publiſhed.</hi>
+                     </p>
+                     <closer>
+                        <signed>John Brown Cler. Parliament. Hen. Elſing Cler. Par. D. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
